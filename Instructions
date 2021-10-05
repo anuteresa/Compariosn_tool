@@ -1,0 +1,7 @@
+Instructions to run the program:
+
+1. used Pycharm IDE
+2. Give chromedriver path to path variable
+3. Run the program
+4. Output display in csv file
+5. output as html format (please open it using "open in browser" option in pycharm to see as table in web browser)
